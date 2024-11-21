@@ -54,6 +54,10 @@ sudo dnf copr enable tgerov/xfce4-docklike-plugin
 sudo dnf install xfce4-docklike-plugin
 ```
 
+### Unofficial Build 
+Download deb file for ubuntu and debian based here
+
+<https://github.com/jakbin/xfce4-docklike-plugin>
 
 #### Dependencies
 
